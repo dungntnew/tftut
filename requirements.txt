@@ -1,2 +1,9 @@
 six
-
+Jinja2
+ipython
+matplotlib
+numpy
+pyzmq
+tornado
+sympy
+sklearn
