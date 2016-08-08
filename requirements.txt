@@ -7,3 +7,6 @@ pyzmq
 tornado
 sympy
 sklearn
+PyQt5
+"ipython[qtconsole]"
+
